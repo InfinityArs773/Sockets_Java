@@ -1,0 +1,5 @@
+com\mycompany\sockets\ClienteBreve.class
+com\mycompany\sockets\CuentaBytes.class
+com\mycompany\sockets\ClienteTCP.class
+com\mycompany\sockets\ServidorTCP.class
+com\mycompany\sockets\ServidorEspera.class
